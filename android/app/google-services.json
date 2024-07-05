@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "820840962908",
+    "project_id": "wooble-5f97d",
+    "storage_bucket": "wooble-5f97d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820840962908:android:98b3c583acf4cbbf443f99",
+        "android_client_info": {
+          "package_name": "com.example.wooble"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXRP7TPF_zxyGtcbtI0JdxNbpEM1GCuZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
